@@ -204,11 +204,6 @@ input[aria-label="Select all issues"] {
 	vertical-align: middle;
 }
 
-#files {
-	margin-left: -15%;
-	width: 90%;
-}
-
 .thread-subscription-status,
 #all_commit_comments,
 .commit.full-commit {
